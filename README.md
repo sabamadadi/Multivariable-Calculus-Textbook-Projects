@@ -31,8 +31,7 @@ the maximum number of iterations has not been reached:
 - Compute f_value as the value of f(x) using the function f.
 - Update x by subtracting f_value divided by df_value.
 - Increment the iteration counter iter.
-9. Upon exiting the loop, the value of x represents the approximation of the root.
- 10. Report the obtained root value.
+9. Upon exiting the loop, the value of x represents the approximation of the root. Report the obtained root value.
 
 #### Results
 The Newton's method iteration converged to a root approximation of x ≈ 0.5493061443340548 for

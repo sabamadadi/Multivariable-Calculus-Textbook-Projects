@@ -1,5 +1,9 @@
 # Multivariable Calculus Textbook Projects
 
+Final project for Calculus 2 course at Shahid Beheshti University (Spring 2023)
+
+Score: 2 out of 2
+
 ## Project 1. Linear and Quadratic Approximations 
 
 <p align="center"> <img src="Project 1/1.png" /> </p>

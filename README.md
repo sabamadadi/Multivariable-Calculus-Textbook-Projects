@@ -168,6 +168,12 @@ between n and Vn.
 
 ## Project 3. The Area of Heart
 
+<p align="center"> <img src="Project 3/1.png" /> </p>
+<p align="center"> <img src="Project 3/2.png" /> </p>
+<p align="center"> <img src="Project 3/3.png" /> </p>
+
+------ 
+
 [Download Textbook](https://skim.math.msstate.edu/LectureNotes/Calculus_Multivariable.pdf)
 
 [Lectures on YouTube](https://www.youtube.com/channel/UCmRbK4vlGDht-joOQ5g0J2Q)

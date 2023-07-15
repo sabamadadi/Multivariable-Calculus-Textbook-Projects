@@ -83,6 +83,48 @@ characteristics. The surface plots demonstrate the overall shape of the function
 plots illustrate the contours and level curves at different zoom levels. These plots help in
 understanding the critical points, curvature, and overall behavior of the ID function.
 
+### 14.95 
+
+[Link to Python Code](https://github.com/sabamadadi/Multivariable-Calculus-Textbook-Projects/tree/main/Project%201/14.95)
+
+#### Introduction
+This report focuses on finding the first- and second-degree Taylor polynomials for the ID function.
+The Taylor polynomials provide local approximations of the function around a critical point and help
+in understanding the behavior of the function in its vicinity.
+
+#### Methodology
+1. Define the ID function as f(x, y) = x^4 - 4x^2 + 1.
+2. Perform the following tasks:
+- Verify the partial derivatives of the quadratic approximation Q at a critical point (a, b).
+- Find the first- and second-degree Taylor polynomials L and Q for the ID function at the estimated
+critical point obtained from Problem 14.94.
+- Compare the values of f, L, and Q at a specific point (x0 + 0.1, y0 - 0.1).
+- Plot the ID function, the first-degree Taylor polynomial L, and the second-degree Taylor
+polynomial Q in a 3D space.
+
+#### Results
+Task 1: Verification of Partial Derivatives of Q
+The partial derivatives of the quadratic approximation Q at the critical point (a, b) are verified. The
+first derivative of Q evaluated at (a, b) is constant, while the second derivative of Q evaluated at (a,
+b) is also constant.
+Task 2: First- and Second-Degree Taylor Polynomials
+The first-degree Taylor polynomial L and the second-degree Taylor polynomial Q for the ID function
+at the estimated critical point are calculated. These polynomials provide local approximations of the
+function in the vicinity of the critical point.
+Task 3: Comparison of Function, L, and Q
+The values of f, L, and Q are compared at the point (x0 + 0.1, y0 - 0.1). This allows us to observe how
+well the Taylor polynomials approximate the function at a specific location near the critical point.
+Task 4: Plotting Function, L, and Q
+A 3D plot is created to visualize the ID function, the first-degree Taylor polynomial L, and the seconddegree Taylor polynomial Q. This plot helps in understanding the similarities and differences
+between the function and its corresponding Taylor approximations.
+
+#### Conclusion
+The first- and second-degree Taylor polynomials provide local approximations of the ID function
+around a critical point. By comparing the values and visualizing the function, L, and Q, we can
+observe the level of approximation and the behavior of the function in the vicinity of the critical
+point. These Taylor polynomials are useful tools for analyzing and understanding the properties of
+the ID function near critical points.
+
 ## Project 2. The Volume of the Unit Ball in n-Dimensions
 
 ## Project 3. The Area of Heart

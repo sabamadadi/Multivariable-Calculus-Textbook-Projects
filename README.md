@@ -138,6 +138,34 @@ the ID function near critical points.
 
 ## Project 2. The Volume of the Unit Ball in n-Dimensions
 
+<p align="center"> <img src="Project 2/1.png" /> </p>
+<p align="center"> <img src="Project 2/2.png" /> </p>
+<p align="center"> <img src="Project 2/3.png" /> </p>
+<p align="center"> <img src="Project 2/4.png" /> </p>
+
+### Report
+
+[Link to Maple Code](https://github.com/sabamadadi/Multivariable-Calculus-Textbook-Projects/blob/main/Project%202/Project%202.mw)
+
+The provided code uses Maple to calculate the values of Vn according to the formula Vn = Vn−1 *
+g(n), where g(n) = n^2 + 1. It then plots the results.
+
+The code initializes the variables m (which represents the number of iterations) and V, a vector to
+store the calculated values. It sets the initial value of V[1] to 2.
+
+The for loop iterates from n = 2 to n = m and calculates Vn using the formula V[n] = V[n-1] * g(n).
+This loop populates the vector V with the computed values.
+
+The code also extracts the formula for Vm and assigns it to the variable V_formula.
+
+Lastly, the code creates a plot to visualize the relationship between n and Vn. It creates a point plot
+(pp) and a line plot (pl) using the values of n and V, and then displays them together. The plot
+includes labels for the x-axis ("n") and the y-axis ("Vn").
+
+In summary, this code evaluates the values of Vn using the provided formula and plots the results.
+The derived formula for Vm and the plotted graph provide a visual representation of the relationship
+between n and Vn.
+
 ## Project 3. The Area of Heart
 
 [Download Textbook](https://skim.math.msstate.edu/LectureNotes/Calculus_Multivariable.pdf)

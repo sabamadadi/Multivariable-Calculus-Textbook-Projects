@@ -104,17 +104,24 @@ polynomial Q in a 3D space.
 
 #### Results
 Task 1: Verification of Partial Derivatives of Q
+
 The partial derivatives of the quadratic approximation Q at the critical point (a, b) are verified. The
 first derivative of Q evaluated at (a, b) is constant, while the second derivative of Q evaluated at (a,
 b) is also constant.
+
 Task 2: First- and Second-Degree Taylor Polynomials
+
 The first-degree Taylor polynomial L and the second-degree Taylor polynomial Q for the ID function
 at the estimated critical point are calculated. These polynomials provide local approximations of the
 function in the vicinity of the critical point.
+
 Task 3: Comparison of Function, L, and Q
+
 The values of f, L, and Q are compared at the point (x0 + 0.1, y0 - 0.1). This allows us to observe how
 well the Taylor polynomials approximate the function at a specific location near the critical point.
+
 Task 4: Plotting Function, L, and Q
+
 A 3D plot is created to visualize the ID function, the first-degree Taylor polynomial L, and the seconddegree Taylor polynomial Q. This plot helps in understanding the similarities and differences
 between the function and its corresponding Taylor approximations.
 

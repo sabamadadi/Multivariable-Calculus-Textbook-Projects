@@ -48,7 +48,7 @@ initial guess is close enough to the true root.
 
 ### 14.94 
 
-[Link to Maple Code](https://github.com/sabamadadi/Multivariable-Calculus-Textbook-Projects/tree/main/Project%201/14.93)
+[Link to Python Code](https://github.com/sabamadadi/Multivariable-Calculus-Textbook-Projects/tree/main/Project%201/14.94)
 
 #### Introduction
 This report presents the surface and contour plots of the ID function, which is defined as f(x) = x^4 -
